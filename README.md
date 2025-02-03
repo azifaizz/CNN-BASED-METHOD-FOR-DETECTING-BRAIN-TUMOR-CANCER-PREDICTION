@@ -17,4 +17,4 @@ This project implements a CNN-based model for classifying brain tumor images fro
 - **Matplotlib & Seaborn**: For data visualization and plotting graphs.
 - **Jupyter Notebooks**: For data analysis, model development, and documentation.
 
-- Clone the repository:  git clone https://github.com/your-username/cnn-brain-tumor-prediction.git
+- Clone the repository:  git clone https://github.com/azifaizz/cnn-brain-tumor-prediction.git
